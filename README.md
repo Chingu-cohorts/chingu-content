@@ -19,7 +19,15 @@ Instructions: Please take a few minutes to answer these questions on this repo. 
 
 # What are my Goals & Expectations for this Voyage?
 
+### @jdmedlock
+
+### @chance
+
 # How many hours a week am I free? 
+
+### @jdmedlock
+
+### @chance
 
 # What tech-stack do I know?
 
